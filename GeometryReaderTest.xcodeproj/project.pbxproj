@@ -13,6 +13,7 @@
 		312AC117238689D500848573 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 312AC116238689D500848573 /* Assets.xcassets */; };
 		312AC11A238689D500848573 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 312AC119238689D500848573 /* Preview Assets.xcassets */; };
 		312AC11D238689D500848573 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 312AC11B238689D500848573 /* LaunchScreen.storyboard */; };
+		312AC12523868EFD00848573 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312AC12423868EFD00848573 /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		312AC119238689D500848573 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		312AC11C238689D500848573 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		312AC11E238689D500848573 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		312AC12423868EFD00848573 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				312AC110238689D200848573 /* AppDelegate.swift */,
 				312AC112238689D200848573 /* SceneDelegate.swift */,
 				312AC114238689D200848573 /* ContentView.swift */,
+				312AC12423868EFD00848573 /* TestView.swift */,
 				312AC116238689D500848573 /* Assets.xcassets */,
 				312AC11B238689D500848573 /* LaunchScreen.storyboard */,
 				312AC11E238689D500848573 /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				312AC12523868EFD00848573 /* TestView.swift in Sources */,
 				312AC111238689D200848573 /* AppDelegate.swift in Sources */,
 				312AC113238689D200848573 /* SceneDelegate.swift in Sources */,
 				312AC115238689D200848573 /* ContentView.swift in Sources */,
